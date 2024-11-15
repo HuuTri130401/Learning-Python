@@ -8,7 +8,6 @@ radius = 5
 area = calculate_area(radius)
 print(f"Area of circle with radius {radius} is {area}")
 
-
 # Danh sách và lặp qua nó
 fruits = ["apple", "banana", "cherry"]
 
