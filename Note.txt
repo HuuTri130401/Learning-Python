@@ -1,0 +1,5 @@
+- pip install fastapi
+- pip install uvicon
+- pip list 
+- uvicorn main:app
+- pip install PyJWT
